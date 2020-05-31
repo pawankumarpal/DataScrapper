@@ -39,5 +39,5 @@ async function scrapeProduct(url){
 
 
 }
-
+//take the url of website from which data has to be scraped
 scrapeProduct('https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?crid=1CBDCP4JHL41U&dchild=1&keywords=the+black+swan&qid=1590930849&sprefix=the+black+sw%2Caps%2C343&sr=8-1')
